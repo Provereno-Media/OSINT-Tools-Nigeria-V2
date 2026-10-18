@@ -4,7 +4,7 @@
 
 A curated list of free and publicly accessible OSINT resources for investigations related to Nigeria. Most resources are available in English. A listed website is not necessarily a public search of personal records: read each access note before using it.
 
-**Last Updated:** 2026-09-27  
+![Last updated](https://img.shields.io/github/last-commit/Provereno-Media/OSINT-Tools-Nigeria-V2?label=Last%20updated)
 **Languages:** Primarily English  
 **Coverage:** Federal and state-level Nigerian sources, supplemented by international tools with a specific Nigerian use case.  
 **Validation note:** Resource landing pages were reviewed on 2026-09-27. Interactive searches, individual records, and the flag image were not independently tested in every case. Recheck access conditions before relying on a result.
